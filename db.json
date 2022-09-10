@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Dawerwqer 213",
+      "empresa": "polo",
+      "email": "wer@po.com",
+      "telefono": "123 111 1 1. ",
+      "notas": "Clando",
+      "id": 3
+    },
+    {
+      "nombre": "Lusito",
+      "empresa": "TrAcka Emp.",
+      "email": "lopo@tracka.cm",
+      "telefono": "909 808 202",
+      "notas": "Es la nota aquí.",
+      "id": 5
+    },
+    {
+      "nombre": "UN cliente",
+      "empresa": "Otro Cliente",
+      "email": "pon.pon@er.com",
+      "telefono": "",
+      "notas": "",
+      "id": 7
+    },
+    {
+      "nombre": "Antoñete",
+      "empresa": "Coca Cola",
+      "email": "caca@pol.com",
+      "telefono": "123 345 451",
+      "notas": "La empresa es la coca colita",
+      "id": 8
+    },
+    {
+      "nombre": "Daqq Editadi",
+      "empresa": "AZzz",
+      "email": "polo@pol.com",
+      "telefono": "123 345 456 ",
+      "notas": "Daa Zad",
+      "id": 9
+    },
+    {
+      "nombre": "Pepito Palotez",
+      "empresa": "Pelez",
+      "email": "por@po.com",
+      "telefono": "123 111 ",
+      "notas": "S",
+      "id": 10
+    }
+  ]
+}
